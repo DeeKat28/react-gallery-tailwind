@@ -1,1 +1,1 @@
-A use of Tailwind CSS with react!
+A Usecase of Tailwind CSS with react!
